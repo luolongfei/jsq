@@ -1,0 +1,17 @@
+.mt-12 {
+    margin-top: 12px;
+}
+
+.mt-24 {
+    margin-top: 24px;
+}
+
+.amount {
+    font-size: 20px;
+    color: #eb1b2e;
+}
+
+#reports {
+    font-size: 12px;
+    border: 1px dashed #007bff;
+}
